@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d196a10-c340-45fc-ba9d-082688c05744" name="Changes" comment="Add HomeWork 3">
-      <change afterPath="$PROJECT_DIR$/src/main/java/HomeWork4/HW4.java" afterDir="false" />
+    <list default="true" id="5d196a10-c340-45fc-ba9d-082688c05744" name="Changes" comment="Add HomeWork 4">
+      <change afterPath="$PROJECT_DIR$/src/main/java/HomeWork5/HW5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,10 +50,13 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "last_opened_file_path": "D:/Study/1st quarter/Java/Homework",
+    "project.structure.last.edited": "Facets",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "IntelliLang.Configuration"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.HW4">
+  <component name="RunManager" selected="Application.HW5">
     <configuration name="HW1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HomeWork1.HW1" />
       <module name="Homework" />
@@ -106,8 +109,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="HW5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork5.HW5" />
+      <module name="Homework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HomeWork5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HW5" />
         <item itemvalue="Application.HW4" />
         <item itemvalue="Application.HW3" />
         <item itemvalue="Application.HW2" />
@@ -145,7 +162,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680411326214</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Add HomeWork 4">
+      <created>1680790341839</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1680790341839</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -163,7 +187,18 @@
     <MESSAGE value="Add HomeWork 1" />
     <MESSAGE value="Add HomeWork 2" />
     <MESSAGE value="Add HomeWork 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add HomeWork 3" />
+    <MESSAGE value="Add HomeWork 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add HomeWork 4" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.util.NoSuchElementException" package="java.util" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
