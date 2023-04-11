@@ -27,8 +27,7 @@ public class HW5 {
         brakets.put(']', '[');
         brakets.put('>', '<');
         Deque <Character> result = new LinkedList<>();
-        char[] parenthesesArray = parentheses.toCharArray();
-        for (char ch: parenthesesArray) {
+        for (char ch: parentheses.toCharArray()) {
             if (brakets.containsValue(ch)) {
                 result.addFirst(ch);
             }
